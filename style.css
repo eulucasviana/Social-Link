@@ -21,11 +21,17 @@ main {
 }
 
 .profile-img h3 {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
     margin-top: 15px;
     margin-bottom: 0;
 }
 
 .profile-img p {
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
     margin-bottom: 5px;
 }
 
@@ -170,5 +176,8 @@ main {
 }
 
 .footer {
-    margin-top: 80px;
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+    margin-top: 60px;
 }
