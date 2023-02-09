@@ -1,28 +1,26 @@
 :root {
-    --hover-color: #a200b1;
-    --shadow-color: #4e00c2;
+  --hover-color: #a200b1;
+  --shadow-color: #4e00c2;
 }
 
 @keyframes pulsate {
-    0%{
-        box-shadow: 
-        0 0 25px var(--hover-color),
-        0 0 50px var(--shadow-color);
-    }
+  0% {
+    box-shadow: 0 0 10px var(--hover-color), 0 0 30px var(--shadow-color);
+  }
 }
 
 .social-link1 button:hover {
-    animation: pulsate 1s ease-in-out;
+  animation: pulsate 1s ease-in-out;
 }
 
 .social-link2 button:hover {
-    animation: pulsate 1s ease-in-out;
+  animation: pulsate 1s ease-in-out;
 }
 
 .social-link3 button:hover {
-    animation: pulsate 1s ease-in-out;
+  animation: pulsate 1s ease-in-out;
 }
 
 .social-link4 button:hover {
-    animation: pulsate 1s ease-in-out;
+  animation: pulsate 1s ease-in-out;
 }
