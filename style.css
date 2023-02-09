@@ -1,163 +1,164 @@
 :root {
-    --body-bg-color: #FAF7FD;
-    --purple: #BB99DD;
-    --hover-color: #c5c5c5;
+  --body-bg-color: #faf7fd;
+  --purple: #bb99dd;
+  --hover-color: #c5c5c5;
 }
 
 main {
-    background-color: var(--body-bg-color);
+  background-color: var(--body-bg-color);
 }
 
 #content {
-    display: list-item;
-    align-items: center;
-    text-align: center;
+  display: list-item;
+  align-items: center;
+  text-align: center;
 }
 
 .profile-img {
-    display: block;
-    margin: 0 auto;
-    margin-top: 20px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
 }
 
 .profile-img h3 {
-    font-family: 'Inter', sans-serif;
-    font-weight: bold;
-    font-size: 18px;
-    margin-top: 15px;
-    margin-bottom: 0;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 0;
 }
 
 .profile-img p {
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 16px;
-    margin-bottom: 5px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  margin-bottom: 5px;
 }
 
 .profile-img img {
-    border-radius: 50%;
-    width: 215px;
-    height: 215px;
-    border: 2px solid purple;
+  border-radius: 50%;
+  width: 215px;
+  height: 215px;
+  border: 2px solid purple;
 }
 
 .social-link1 button {
-    box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
-    font-weight: bold;
-    font-size: 13px;
-    
-    margin: 0 auto;
-    width: 60%;
-    height: 49px;
-    left: 556px;
-    top: 486px;
-    margin-top: 30px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
 
-    background-color: var(--body-bg-color);
-    border: 2px solid #BB99DD;
-    border-radius: 30px 30px 30px 30px;
+  margin: 0 auto;
+  width: 60%;
+  height: 49px;
+  left: 556px;
+  top: 486px;
+  margin-top: 30px;
+
+  background-color: var(--body-bg-color);
+  border: 2px solid #bb99dd;
+  border-radius: 30px 30px 30px 30px;
 }
 
 .social-link1 button a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .social-link2 button {
-    box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
-    font-weight: bold;
-    font-size: 13px;
-    
-    margin: 0 auto;
-    width: 60%;
-    height: 49px;
-    left: 556px;
-    top: 486px;
-    margin-top: 16px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
 
-    background-color: var(--body-bg-color);
-    border: 2px solid #BB99DD;
-    border-radius: 30px 30px 30px 30px;
+  margin: 0 auto;
+  width: 60%;
+  height: 49px;
+  left: 556px;
+  top: 486px;
+  margin-top: 16px;
+
+  background-color: var(--body-bg-color);
+  border: 2px solid #bb99dd;
+  border-radius: 30px 30px 30px 30px;
 }
 
 .social-link2 button a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .social-link3 button {
-    box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
-    font-weight: bold;
-    font-size: 13px;
-    
-    margin: 0 auto;
-    width: 60%;
-    height: 49px;
-    left: 556px;
-    top: 486px;
-    margin-top: 16px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
 
-    background-color: var(--body-bg-color);
-    border: 2px solid #BB99DD;
-    border-radius: 30px 30px 30px 30px;
+  margin: 0 auto;
+  width: 60%;
+  height: 49px;
+  left: 556px;
+  top: 486px;
+  margin-top: 16px;
+
+  background-color: var(--body-bg-color);
+  border: 2px solid #bb99dd;
+  border-radius: 30px 30px 30px 30px;
 }
 
 .social-link3 button a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .social-link4 button {
-    box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
-    font-weight: bold;
-    font-size: 13px;
-    
-    margin: 0 auto;
-    width: 60%;
-    height: 49px;
-    left: 556px;
-    top: 486px;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
 
-    background-color: var(--body-bg-color);
-    border: 2px solid #BB99DD;
-    border-radius: 30px 30px 30px 30px;
-    margin-top: 16px;
+  margin: 0 auto;
+  width: 60%;
+  height: 49px;
+  left: 556px;
+  top: 486px;
+
+  background-color: var(--body-bg-color);
+  border: 2px solid #bb99dd;
+  border-radius: 30px 30px 30px 30px;
+  margin-top: 16px;
 }
 
 .social-link4 button a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .social-icons {
-   display: block;
-   margin-top: 68px;
+  display: block;
+  margin-top: 68px;
 }
 
 .social-icons a {
-    text-decoration: none;
+  text-decoration: none;
+  color: #000000;
 }
 
 .instagram-icon {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 
 .github-icon {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 
 .linkedin-icon {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 
 .twitch-icon {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 
 .footer {
-    font-family: 'Inter', sans-serif;
-    font-weight: normal;
-    font-size: 13px;
-    margin-top: 60px;
+  font-family: "Inter", sans-serif;
+  font-weight: normal;
+  font-size: 13px;
+  margin-top: 60px;
 }

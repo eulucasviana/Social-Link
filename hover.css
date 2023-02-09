@@ -5,7 +5,7 @@
 
 @keyframes pulsate {
   0% {
-    box-shadow: 0 0 10px var(--hover-color), 0 0 30px var(--shadow-color);
+    box-shadow: 0 0 25px var(--hover-color), 0 0 50px var(--shadow-color);
   }
 }
 
